@@ -178,22 +178,22 @@ Aspiring Data Analyst passionate about transforming business data into meaningfu
 
 ## 1️⃣ Executive Overview
 
-![Executive Overview](Screenshots/Screenshot(80).png)
+![Executive Overview](Screenshots/Screenshot_1.png)
 
 ---
 
 ## 2️⃣ Claims & Fraud Analytics
 
-![Claims & Fraud Analytics](Screenshots/Screenshot(81).pn)
+![Claims & Fraud Analytics](Screenshots/Screenshot_2.png)
 
 ---
 
 ## 3️⃣ Customer & Branch Performance
 
-![Customer & Branch Performance](Screenshots/Screenshot(82).pn)
+![Customer & Branch Performance](Screenshots/Screenshot_3.png)
 
 ---
 
 ## 4️⃣ Financial & Operational Insights
 
-![Financial & Operational Insights](Screenshots/Screenshot(83).pn)
+![Financial & Operational Insights](Screenshots/Screenshot_4.png)
