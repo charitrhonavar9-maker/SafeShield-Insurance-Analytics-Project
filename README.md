@@ -178,7 +178,7 @@ Aspiring Data Analyst passionate about transforming business data into meaningfu
 
 ## 1️⃣ Executive Overview
 
-![Executive Overview](Screenshot_1.png)
+![Executive Overview](Screenshots/Screenshot_1.png)
 
 ---
 
