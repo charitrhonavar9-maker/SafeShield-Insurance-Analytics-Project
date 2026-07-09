@@ -1,0 +1,9 @@
+﻿PolicyTypeID,PolicyTypeName,BasePremiumRate,MinCoverage,MaxCoverage
+1,Motor Insurance,0.035,50000,1500000
+2,Health Insurance,0.045,100000,2500000
+3,Life Insurance,0.02,200000,5000000
+4,Property Insurance,0.015,300000,5000000
+5,Travel Insurance,0.06,25000,500000
+6,Marine Insurance,0.025,200000,3000000
+7,Fire Insurance,0.018,250000,4000000
+8,Personal Accident,0.03,50000,1000000

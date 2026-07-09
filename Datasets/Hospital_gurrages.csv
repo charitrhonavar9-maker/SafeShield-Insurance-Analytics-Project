@@ -1,0 +1,401 @@
+﻿ProviderID,ProviderName,ProviderType,City,State,NetworkStatus
+1,Jabalpur Car Care Center,Garage,Jabalpur,Madhya Pradesh,In-Network
+2,Rourkela Auto Repairs,Garage,Rourkela,Odisha,In-Network
+3,Jaipur Motors,Garage,Jaipur,Rajasthan,Out-of-Network
+4,Vijayawada Health Institute,Hospital,Vijayawada,Andhra Pradesh,In-Network
+5,Jabalpur Auto Repairs,Garage,Jabalpur,Madhya Pradesh,Out-of-Network
+6,Jalandhar Care Hospital,Hospital,Jalandhar,Punjab,In-Network
+7,Thiruvananthapuram Medical Center,Hospital,Thiruvananthapuram,Kerala,In-Network
+8,Hyderabad Nursing Home,Hospital,Hyderabad,Telangana,In-Network
+9,Cuttack Auto Repairs,Garage,Cuttack,Odisha,In-Network
+10,Howrah Care Hospital,Hospital,Howrah,West Bengal,In-Network
+11,Faridabad Health Institute,Hospital,Faridabad,Haryana,In-Network
+12,Jalandhar Motor Garage,Garage,Jalandhar,Punjab,Out-of-Network
+13,Kota Service Station,Garage,Kota,Rajasthan,In-Network
+14,Bhagalpur Motor Garage,Garage,Bhagalpur,Bihar,Out-of-Network
+15,Howrah Auto Works,Garage,Howrah,West Bengal,In-Network
+16,Cuttack Auto Repairs,Garage,Cuttack,Odisha,In-Network
+17,Saket Auto Works,Garage,Saket,Delhi,In-Network
+18,Bengaluru Health Institute,Hospital,Bengaluru,Karnataka,In-Network
+19,Karimnagar Motor Garage,Garage,Karimnagar,Telangana,In-Network
+20,Dwarka Auto Repairs,Garage,Dwarka,Delhi,In-Network
+21,Bhopal General Hospital,Hospital,Bhopal,Madhya Pradesh,In-Network
+22,Vijayawada Car Care Center,Garage,Vijayawada,Andhra Pradesh,Out-of-Network
+23,Bhubaneswar Health Institute,Hospital,Bhubaneswar,Odisha,Out-of-Network
+24,Cuttack Medical Center,Hospital,Cuttack,Odisha,In-Network
+25,Hyderabad Health Institute,Hospital,Hyderabad,Telangana,In-Network
+26,Rourkela Auto Works,Garage,Rourkela,Odisha,In-Network
+27,Mysuru Service Station,Garage,Mysuru,Karnataka,In-Network
+28,Thrissur Auto Repairs,Garage,Thrissur,Kerala,Out-of-Network
+29,Gaya Nursing Home,Hospital,Gaya,Bihar,In-Network
+30,Siliguri Multi-Specialty Hospital,Hospital,Siliguri,West Bengal,In-Network
+31,Thiruvananthapuram Care Hospital,Hospital,Thiruvananthapuram,Kerala,In-Network
+32,Coimbatore Car Care Center,Garage,Coimbatore,Tamil Nadu,In-Network
+33,Tirupati Auto Works,Garage,Tirupati,Andhra Pradesh,In-Network
+34,Surat Service Station,Garage,Surat,Gujarat,Out-of-Network
+35,Kolkata Auto Repairs,Garage,Kolkata,West Bengal,In-Network
+36,Rajkot Car Care Center,Garage,Rajkot,Gujarat,In-Network
+37,Mumbai Auto Repairs,Garage,Mumbai,Maharashtra,In-Network
+38,Ambala Motors,Garage,Ambala,Haryana,In-Network
+39,Kota Service Station,Garage,Kota,Rajasthan,Out-of-Network
+40,Patna Health Institute,Hospital,Patna,Bihar,In-Network
+41,Panipat Car Care Center,Garage,Panipat,Haryana,In-Network
+42,Vadodara General Hospital,Hospital,Vadodara,Gujarat,In-Network
+43,Kota General Hospital,Hospital,Kota,Rajasthan,In-Network
+44,Gurugram Nursing Home,Hospital,Gurugram,Haryana,In-Network
+45,Coimbatore Service Station,Garage,Coimbatore,Tamil Nadu,In-Network
+46,Nizamabad Auto Works,Garage,Nizamabad,Telangana,In-Network
+47,Tirupati Motor Garage,Garage,Tirupati,Andhra Pradesh,In-Network
+48,Ambala Medical Center,Hospital,Ambala,Haryana,In-Network
+49,Kanpur Motor Garage,Garage,Kanpur,Uttar Pradesh,Out-of-Network
+50,Jalandhar Auto Works,Garage,Jalandhar,Punjab,In-Network
+51,Faridabad Multi-Specialty Hospital,Hospital,Faridabad,Haryana,In-Network
+52,Karimnagar Car Care Center,Garage,Karimnagar,Telangana,Out-of-Network
+53,Visakhapatnam Multi-Specialty Hospital,Hospital,Visakhapatnam,Andhra Pradesh,In-Network
+54,Surat Nursing Home,Hospital,Surat,Gujarat,In-Network
+55,Rohini Medical Center,Hospital,Rohini,Delhi,In-Network
+56,Jodhpur General Hospital,Hospital,Jodhpur,Rajasthan,In-Network
+57,Mangaluru Care Hospital,Hospital,Mangaluru,Karnataka,In-Network
+58,Bhagalpur Auto Works,Garage,Bhagalpur,Bihar,In-Network
+59,Noida Nursing Home,Hospital,Noida,Uttar Pradesh,In-Network
+60,Karimnagar Nursing Home,Hospital,Karimnagar,Telangana,Out-of-Network
+61,Hyderabad Nursing Home,Hospital,Hyderabad,Telangana,Out-of-Network
+62,Pune Health Institute,Hospital,Pune,Maharashtra,In-Network
+63,Cuttack Auto Works,Garage,Cuttack,Odisha,Out-of-Network
+64,Noida General Hospital,Hospital,Noida,Uttar Pradesh,In-Network
+65,Hubli Multi-Specialty Hospital,Hospital,Hubli,Karnataka,In-Network
+66,Thrissur Medical Center,Hospital,Thrissur,Kerala,In-Network
+67,Warangal Car Care Center,Garage,Warangal,Telangana,In-Network
+68,Siliguri Medical Center,Hospital,Siliguri,West Bengal,In-Network
+69,Madurai Service Station,Garage,Madurai,Tamil Nadu,In-Network
+70,New Delhi Motor Garage,Garage,New Delhi,Delhi,In-Network
+71,Bengaluru Care Hospital,Hospital,Bengaluru,Karnataka,Out-of-Network
+72,Faridabad General Hospital,Hospital,Faridabad,Haryana,In-Network
+73,Siliguri Motors,Garage,Siliguri,West Bengal,In-Network
+74,Kolkata Motors,Garage,Kolkata,West Bengal,In-Network
+75,Lucknow Medical Center,Hospital,Lucknow,Uttar Pradesh,In-Network
+76,Noida Auto Repairs,Garage,Noida,Uttar Pradesh,Out-of-Network
+77,Chennai Service Station,Garage,Chennai,Tamil Nadu,In-Network
+78,Noida Nursing Home,Hospital,Noida,Uttar Pradesh,In-Network
+79,Jodhpur Motor Garage,Garage,Jodhpur,Rajasthan,In-Network
+80,Kanpur Care Hospital,Hospital,Kanpur,Uttar Pradesh,In-Network
+81,Muzaffarpur General Hospital,Hospital,Muzaffarpur,Bihar,In-Network
+82,Hubli Auto Works,Garage,Hubli,Karnataka,Out-of-Network
+83,Bengaluru Auto Works,Garage,Bengaluru,Karnataka,In-Network
+84,Bhopal Auto Repairs,Garage,Bhopal,Madhya Pradesh,In-Network
+85,Jodhpur Motors,Garage,Jodhpur,Rajasthan,Out-of-Network
+86,Bhopal Service Station,Garage,Bhopal,Madhya Pradesh,In-Network
+87,Rajkot Car Care Center,Garage,Rajkot,Gujarat,In-Network
+88,Dwarka Car Care Center,Garage,Dwarka,Delhi,In-Network
+89,Jodhpur Nursing Home,Hospital,Jodhpur,Rajasthan,In-Network
+90,Amritsar Auto Repairs,Garage,Amritsar,Punjab,In-Network
+91,Panipat Motors,Garage,Panipat,Haryana,In-Network
+92,Lucknow Care Hospital,Hospital,Lucknow,Uttar Pradesh,In-Network
+93,Noida Motor Garage,Garage,Noida,Uttar Pradesh,In-Network
+94,Bengaluru General Hospital,Hospital,Bengaluru,Karnataka,Out-of-Network
+95,Guntur Motor Garage,Garage,Guntur,Andhra Pradesh,In-Network
+96,Kolkata Auto Repairs,Garage,Kolkata,West Bengal,In-Network
+97,Kolkata General Hospital,Hospital,Kolkata,West Bengal,In-Network
+98,Saket Nursing Home,Hospital,Saket,Delhi,In-Network
+99,Visakhapatnam Care Hospital,Hospital,Visakhapatnam,Andhra Pradesh,Out-of-Network
+100,Siliguri General Hospital,Hospital,Siliguri,West Bengal,Out-of-Network
+101,Rourkela Nursing Home,Hospital,Rourkela,Odisha,In-Network
+102,Tirupati Nursing Home,Hospital,Tirupati,Andhra Pradesh,Out-of-Network
+103,Guntur Service Station,Garage,Guntur,Andhra Pradesh,Out-of-Network
+104,Chennai Multi-Specialty Hospital,Hospital,Chennai,Tamil Nadu,In-Network
+105,Kota Auto Repairs,Garage,Kota,Rajasthan,In-Network
+106,Nizamabad Motors,Garage,Nizamabad,Telangana,In-Network
+107,Cuttack Auto Repairs,Garage,Cuttack,Odisha,In-Network
+108,Vadodara Care Hospital,Hospital,Vadodara,Gujarat,Out-of-Network
+109,Mumbai Nursing Home,Hospital,Mumbai,Maharashtra,In-Network
+110,Kanpur Health Institute,Hospital,Kanpur,Uttar Pradesh,In-Network
+111,Karimnagar Car Care Center,Garage,Karimnagar,Telangana,Out-of-Network
+112,Saket Auto Repairs,Garage,Saket,Delhi,In-Network
+113,Amritsar Service Station,Garage,Amritsar,Punjab,In-Network
+114,Jabalpur Service Station,Garage,Jabalpur,Madhya Pradesh,Out-of-Network
+115,Kolkata General Hospital,Hospital,Kolkata,West Bengal,In-Network
+116,Noida Medical Center,Hospital,Noida,Uttar Pradesh,In-Network
+117,Cuttack Auto Works,Garage,Cuttack,Odisha,In-Network
+118,Tirupati Care Hospital,Hospital,Tirupati,Andhra Pradesh,In-Network
+119,Mangaluru General Hospital,Hospital,Mangaluru,Karnataka,In-Network
+120,Tirupati Auto Works,Garage,Tirupati,Andhra Pradesh,In-Network
+121,Patna General Hospital,Hospital,Patna,Bihar,In-Network
+122,Chandigarh Service Station,Garage,Chandigarh,Punjab,In-Network
+123,Jaipur General Hospital,Hospital,Jaipur,Rajasthan,In-Network
+124,Mysuru Auto Works,Garage,Mysuru,Karnataka,In-Network
+125,Kota Car Care Center,Garage,Kota,Rajasthan,In-Network
+126,Varanasi Motors,Garage,Varanasi,Uttar Pradesh,In-Network
+127,Ahmedabad Motor Garage,Garage,Ahmedabad,Gujarat,In-Network
+128,Gaya Multi-Specialty Hospital,Hospital,Gaya,Bihar,In-Network
+129,Chennai Care Hospital,Hospital,Chennai,Tamil Nadu,In-Network
+130,Udaipur Motors,Garage,Udaipur,Rajasthan,In-Network
+131,Gaya General Hospital,Hospital,Gaya,Bihar,In-Network
+132,Puri Nursing Home,Hospital,Puri,Odisha,Out-of-Network
+133,Bhagalpur Health Institute,Hospital,Bhagalpur,Bihar,Out-of-Network
+134,Jaipur Multi-Specialty Hospital,Hospital,Jaipur,Rajasthan,In-Network
+135,Panipat Multi-Specialty Hospital,Hospital,Panipat,Haryana,Out-of-Network
+136,Durgapur Car Care Center,Garage,Durgapur,West Bengal,Out-of-Network
+137,Dwarka Care Hospital,Hospital,Dwarka,Delhi,Out-of-Network
+138,Trichy Motors,Garage,Trichy,Tamil Nadu,Out-of-Network
+139,Kolkata Service Station,Garage,Kolkata,West Bengal,In-Network
+140,Rourkela Health Institute,Hospital,Rourkela,Odisha,In-Network
+141,Kochi Nursing Home,Hospital,Kochi,Kerala,In-Network
+142,Mangaluru Service Station,Garage,Mangaluru,Karnataka,In-Network
+143,Coimbatore Health Institute,Hospital,Coimbatore,Tamil Nadu,Out-of-Network
+144,Madurai General Hospital,Hospital,Madurai,Tamil Nadu,Out-of-Network
+145,Karimnagar Motor Garage,Garage,Karimnagar,Telangana,Out-of-Network
+146,Karimnagar Auto Repairs,Garage,Karimnagar,Telangana,In-Network
+147,Hubli Motor Garage,Garage,Hubli,Karnataka,Out-of-Network
+148,Ahmedabad Car Care Center,Garage,Ahmedabad,Gujarat,Out-of-Network
+149,Vadodara Health Institute,Hospital,Vadodara,Gujarat,In-Network
+150,Mangaluru Car Care Center,Garage,Mangaluru,Karnataka,In-Network
+151,Dwarka Health Institute,Hospital,Dwarka,Delhi,Out-of-Network
+152,Panipat Health Institute,Hospital,Panipat,Haryana,In-Network
+153,Ludhiana Motor Garage,Garage,Ludhiana,Punjab,In-Network
+154,Ahmedabad Service Station,Garage,Ahmedabad,Gujarat,In-Network
+155,Gwalior Auto Works,Garage,Gwalior,Madhya Pradesh,Out-of-Network
+156,Howrah Auto Works,Garage,Howrah,West Bengal,In-Network
+157,Panipat Medical Center,Hospital,Panipat,Haryana,In-Network
+158,Coimbatore Health Institute,Hospital,Coimbatore,Tamil Nadu,Out-of-Network
+159,Nashik Care Hospital,Hospital,Nashik,Maharashtra,Out-of-Network
+160,Tirupati General Hospital,Hospital,Tirupati,Andhra Pradesh,In-Network
+161,Puri Nursing Home,Hospital,Puri,Odisha,In-Network
+162,Gwalior General Hospital,Hospital,Gwalior,Madhya Pradesh,In-Network
+163,Varanasi Care Hospital,Hospital,Varanasi,Uttar Pradesh,In-Network
+164,Trichy Motors,Garage,Trichy,Tamil Nadu,In-Network
+165,Patna Multi-Specialty Hospital,Hospital,Patna,Bihar,In-Network
+166,Bhagalpur Motors,Garage,Bhagalpur,Bihar,In-Network
+167,Noida Motors,Garage,Noida,Uttar Pradesh,In-Network
+168,Faridabad Care Hospital,Hospital,Faridabad,Haryana,In-Network
+169,Hyderabad Auto Works,Garage,Hyderabad,Telangana,Out-of-Network
+170,Vadodara Care Hospital,Hospital,Vadodara,Gujarat,In-Network
+171,Kanpur Health Institute,Hospital,Kanpur,Uttar Pradesh,In-Network
+172,Jodhpur Auto Repairs,Garage,Jodhpur,Rajasthan,In-Network
+173,Karimnagar Health Institute,Hospital,Karimnagar,Telangana,Out-of-Network
+174,Dwarka General Hospital,Hospital,Dwarka,Delhi,In-Network
+175,Faridabad Nursing Home,Hospital,Faridabad,Haryana,In-Network
+176,Nagpur Motors,Garage,Nagpur,Maharashtra,In-Network
+177,Rajkot Motors,Garage,Rajkot,Gujarat,In-Network
+178,Bhagalpur Service Station,Garage,Bhagalpur,Bihar,In-Network
+179,Chandigarh Service Station,Garage,Chandigarh,Punjab,In-Network
+180,Durgapur Car Care Center,Garage,Durgapur,West Bengal,In-Network
+181,Muzaffarpur Motor Garage,Garage,Muzaffarpur,Bihar,Out-of-Network
+182,New Delhi Auto Works,Garage,New Delhi,Delhi,Out-of-Network
+183,Kozhikode Health Institute,Hospital,Kozhikode,Kerala,In-Network
+184,Kanpur Multi-Specialty Hospital,Hospital,Kanpur,Uttar Pradesh,In-Network
+185,Coimbatore Motor Garage,Garage,Coimbatore,Tamil Nadu,In-Network
+186,Madurai Service Station,Garage,Madurai,Tamil Nadu,Out-of-Network
+187,Varanasi General Hospital,Hospital,Varanasi,Uttar Pradesh,In-Network
+188,Hubli Motors,Garage,Hubli,Karnataka,In-Network
+189,Gaya Service Station,Garage,Gaya,Bihar,Out-of-Network
+190,Kochi Car Care Center,Garage,Kochi,Kerala,In-Network
+191,Chandigarh Motor Garage,Garage,Chandigarh,Punjab,In-Network
+192,Trichy Motor Garage,Garage,Trichy,Tamil Nadu,In-Network
+193,Trichy Care Hospital,Hospital,Trichy,Tamil Nadu,In-Network
+194,Indore Health Institute,Hospital,Indore,Madhya Pradesh,In-Network
+195,Warangal Auto Works,Garage,Warangal,Telangana,In-Network
+196,Rourkela Auto Works,Garage,Rourkela,Odisha,Out-of-Network
+197,Rourkela Auto Works,Garage,Rourkela,Odisha,In-Network
+198,Udaipur Auto Repairs,Garage,Udaipur,Rajasthan,In-Network
+199,Kanpur Care Hospital,Hospital,Kanpur,Uttar Pradesh,In-Network
+200,Muzaffarpur Service Station,Garage,Muzaffarpur,Bihar,In-Network
+201,Chandigarh Care Hospital,Hospital,Chandigarh,Punjab,In-Network
+202,Ambala Care Hospital,Hospital,Ambala,Haryana,In-Network
+203,Bhubaneswar Service Station,Garage,Bhubaneswar,Odisha,Out-of-Network
+204,Mangaluru Medical Center,Hospital,Mangaluru,Karnataka,In-Network
+205,Surat Service Station,Garage,Surat,Gujarat,Out-of-Network
+206,Ambala Car Care Center,Garage,Ambala,Haryana,In-Network
+207,Vijayawada General Hospital,Hospital,Vijayawada,Andhra Pradesh,In-Network
+208,Kanpur Medical Center,Hospital,Kanpur,Uttar Pradesh,In-Network
+209,Kozhikode Care Hospital,Hospital,Kozhikode,Kerala,In-Network
+210,Puri Car Care Center,Garage,Puri,Odisha,In-Network
+211,Bhubaneswar Nursing Home,Hospital,Bhubaneswar,Odisha,In-Network
+212,Coimbatore Health Institute,Hospital,Coimbatore,Tamil Nadu,In-Network
+213,Chennai Care Hospital,Hospital,Chennai,Tamil Nadu,In-Network
+214,Kanpur Motor Garage,Garage,Kanpur,Uttar Pradesh,In-Network
+215,Ahmedabad Auto Repairs,Garage,Ahmedabad,Gujarat,In-Network
+216,Rohini Service Station,Garage,Rohini,Delhi,In-Network
+217,Bhopal Car Care Center,Garage,Bhopal,Madhya Pradesh,In-Network
+218,Guntur Car Care Center,Garage,Guntur,Andhra Pradesh,In-Network
+219,Hyderabad Car Care Center,Garage,Hyderabad,Telangana,In-Network
+220,Vijayawada Motors,Garage,Vijayawada,Andhra Pradesh,In-Network
+221,Vadodara Service Station,Garage,Vadodara,Gujarat,In-Network
+222,Bhopal Auto Repairs,Garage,Bhopal,Madhya Pradesh,In-Network
+223,Patna Care Hospital,Hospital,Patna,Bihar,In-Network
+224,Muzaffarpur Motors,Garage,Muzaffarpur,Bihar,In-Network
+225,Mangaluru Health Institute,Hospital,Mangaluru,Karnataka,In-Network
+226,Pune Service Station,Garage,Pune,Maharashtra,In-Network
+227,Noida Service Station,Garage,Noida,Uttar Pradesh,In-Network
+228,Trichy Auto Repairs,Garage,Trichy,Tamil Nadu,In-Network
+229,Bhopal Nursing Home,Hospital,Bhopal,Madhya Pradesh,In-Network
+230,Trichy Motor Garage,Garage,Trichy,Tamil Nadu,Out-of-Network
+231,Thiruvananthapuram General Hospital,Hospital,Thiruvananthapuram,Kerala,In-Network
+232,Ahmedabad Motors,Garage,Ahmedabad,Gujarat,Out-of-Network
+233,Hubli Care Hospital,Hospital,Hubli,Karnataka,Out-of-Network
+234,New Delhi Car Care Center,Garage,New Delhi,Delhi,In-Network
+235,Kolkata General Hospital,Hospital,Kolkata,West Bengal,Out-of-Network
+236,Puri Auto Works,Garage,Puri,Odisha,In-Network
+237,Rourkela Medical Center,Hospital,Rourkela,Odisha,In-Network
+238,Siliguri Motor Garage,Garage,Siliguri,West Bengal,In-Network
+239,Hyderabad Motor Garage,Garage,Hyderabad,Telangana,In-Network
+240,Bhubaneswar Service Station,Garage,Bhubaneswar,Odisha,In-Network
+241,Jalandhar Motor Garage,Garage,Jalandhar,Punjab,In-Network
+242,Amritsar Health Institute,Hospital,Amritsar,Punjab,In-Network
+243,Jaipur Nursing Home,Hospital,Jaipur,Rajasthan,In-Network
+244,Noida Auto Repairs,Garage,Noida,Uttar Pradesh,Out-of-Network
+245,Rourkela Nursing Home,Hospital,Rourkela,Odisha,In-Network
+246,Chandigarh Motor Garage,Garage,Chandigarh,Punjab,Out-of-Network
+247,Jalandhar Health Institute,Hospital,Jalandhar,Punjab,In-Network
+248,Chandigarh Auto Works,Garage,Chandigarh,Punjab,Out-of-Network
+249,Lucknow Motor Garage,Garage,Lucknow,Uttar Pradesh,Out-of-Network
+250,Mysuru Nursing Home,Hospital,Mysuru,Karnataka,Out-of-Network
+251,Kanpur Motors,Garage,Kanpur,Uttar Pradesh,Out-of-Network
+252,Gwalior Care Hospital,Hospital,Gwalior,Madhya Pradesh,In-Network
+253,Durgapur Health Institute,Hospital,Durgapur,West Bengal,In-Network
+254,Jodhpur Multi-Specialty Hospital,Hospital,Jodhpur,Rajasthan,In-Network
+255,Nagpur Service Station,Garage,Nagpur,Maharashtra,Out-of-Network
+256,Surat Care Hospital,Hospital,Surat,Gujarat,In-Network
+257,Rohini Auto Repairs,Garage,Rohini,Delhi,In-Network
+258,Amritsar Health Institute,Hospital,Amritsar,Punjab,In-Network
+259,Thrissur Car Care Center,Garage,Thrissur,Kerala,In-Network
+260,Jaipur Car Care Center,Garage,Jaipur,Rajasthan,In-Network
+261,Gurugram Motor Garage,Garage,Gurugram,Haryana,In-Network
+262,Bhubaneswar Auto Repairs,Garage,Bhubaneswar,Odisha,In-Network
+263,Udaipur Care Hospital,Hospital,Udaipur,Rajasthan,In-Network
+264,New Delhi Health Institute,Hospital,New Delhi,Delhi,In-Network
+265,Saket Care Hospital,Hospital,Saket,Delhi,In-Network
+266,Durgapur Care Hospital,Hospital,Durgapur,West Bengal,In-Network
+267,Kolkata Health Institute,Hospital,Kolkata,West Bengal,Out-of-Network
+268,Visakhapatnam Motors,Garage,Visakhapatnam,Andhra Pradesh,Out-of-Network
+269,Nagpur Multi-Specialty Hospital,Hospital,Nagpur,Maharashtra,In-Network
+270,Chandigarh Multi-Specialty Hospital,Hospital,Chandigarh,Punjab,In-Network
+271,Muzaffarpur Service Station,Garage,Muzaffarpur,Bihar,In-Network
+272,Durgapur Health Institute,Hospital,Durgapur,West Bengal,Out-of-Network
+273,Saket Motor Garage,Garage,Saket,Delhi,Out-of-Network
+274,Muzaffarpur Multi-Specialty Hospital,Hospital,Muzaffarpur,Bihar,In-Network
+275,Ludhiana Multi-Specialty Hospital,Hospital,Ludhiana,Punjab,Out-of-Network
+276,New Delhi Nursing Home,Hospital,New Delhi,Delhi,Out-of-Network
+277,Nagpur Service Station,Garage,Nagpur,Maharashtra,In-Network
+278,Kolkata Nursing Home,Hospital,Kolkata,West Bengal,In-Network
+279,Vadodara Health Institute,Hospital,Vadodara,Gujarat,In-Network
+280,Kochi Auto Works,Garage,Kochi,Kerala,In-Network
+281,Vijayawada Health Institute,Hospital,Vijayawada,Andhra Pradesh,In-Network
+282,Saket Medical Center,Hospital,Saket,Delhi,In-Network
+283,Nizamabad Care Hospital,Hospital,Nizamabad,Telangana,In-Network
+284,New Delhi Car Care Center,Garage,New Delhi,Delhi,Out-of-Network
+285,Bhopal Care Hospital,Hospital,Bhopal,Madhya Pradesh,Out-of-Network
+286,Gwalior Auto Works,Garage,Gwalior,Madhya Pradesh,Out-of-Network
+287,Pune Health Institute,Hospital,Pune,Maharashtra,Out-of-Network
+288,Dwarka General Hospital,Hospital,Dwarka,Delhi,In-Network
+289,Mangaluru Auto Works,Garage,Mangaluru,Karnataka,In-Network
+290,Patna Health Institute,Hospital,Patna,Bihar,In-Network
+291,Ahmedabad Medical Center,Hospital,Ahmedabad,Gujarat,In-Network
+292,Siliguri Nursing Home,Hospital,Siliguri,West Bengal,In-Network
+293,Hubli Motors,Garage,Hubli,Karnataka,In-Network
+294,New Delhi Auto Repairs,Garage,New Delhi,Delhi,In-Network
+295,Lucknow General Hospital,Hospital,Lucknow,Uttar Pradesh,Out-of-Network
+296,Chandigarh Auto Repairs,Garage,Chandigarh,Punjab,Out-of-Network
+297,Kolkata Auto Works,Garage,Kolkata,West Bengal,In-Network
+298,Patna Health Institute,Hospital,Patna,Bihar,Out-of-Network
+299,Gaya General Hospital,Hospital,Gaya,Bihar,In-Network
+300,Saket General Hospital,Hospital,Saket,Delhi,Out-of-Network
+301,Ludhiana Care Hospital,Hospital,Ludhiana,Punjab,In-Network
+302,Coimbatore Auto Repairs,Garage,Coimbatore,Tamil Nadu,In-Network
+303,Nizamabad Health Institute,Hospital,Nizamabad,Telangana,In-Network
+304,Mangaluru Auto Repairs,Garage,Mangaluru,Karnataka,Out-of-Network
+305,Gwalior Service Station,Garage,Gwalior,Madhya Pradesh,In-Network
+306,Bhubaneswar Multi-Specialty Hospital,Hospital,Bhubaneswar,Odisha,In-Network
+307,Thiruvananthapuram Care Hospital,Hospital,Thiruvananthapuram,Kerala,Out-of-Network
+308,Gwalior Auto Works,Garage,Gwalior,Madhya Pradesh,In-Network
+309,Chandigarh General Hospital,Hospital,Chandigarh,Punjab,In-Network
+310,Nizamabad General Hospital,Hospital,Nizamabad,Telangana,Out-of-Network
+311,Chennai Auto Repairs,Garage,Chennai,Tamil Nadu,In-Network
+312,Faridabad Health Institute,Hospital,Faridabad,Haryana,In-Network
+313,Chennai Multi-Specialty Hospital,Hospital,Chennai,Tamil Nadu,In-Network
+314,Lucknow Multi-Specialty Hospital,Hospital,Lucknow,Uttar Pradesh,Out-of-Network
+315,Coimbatore General Hospital,Hospital,Coimbatore,Tamil Nadu,Out-of-Network
+316,Durgapur Motors,Garage,Durgapur,West Bengal,In-Network
+317,Rourkela Care Hospital,Hospital,Rourkela,Odisha,Out-of-Network
+318,Howrah Car Care Center,Garage,Howrah,West Bengal,Out-of-Network
+319,Surat Motors,Garage,Surat,Gujarat,In-Network
+320,Jaipur Auto Works,Garage,Jaipur,Rajasthan,In-Network
+321,Chennai Auto Works,Garage,Chennai,Tamil Nadu,In-Network
+322,Bengaluru Medical Center,Hospital,Bengaluru,Karnataka,In-Network
+323,Jaipur Nursing Home,Hospital,Jaipur,Rajasthan,Out-of-Network
+324,Ambala Nursing Home,Hospital,Ambala,Haryana,In-Network
+325,Gwalior Service Station,Garage,Gwalior,Madhya Pradesh,Out-of-Network
+326,Indore Health Institute,Hospital,Indore,Madhya Pradesh,In-Network
+327,Kozhikode Medical Center,Hospital,Kozhikode,Kerala,In-Network
+328,Mumbai Care Hospital,Hospital,Mumbai,Maharashtra,In-Network
+329,Dwarka Auto Works,Garage,Dwarka,Delhi,In-Network
+330,Mangaluru General Hospital,Hospital,Mangaluru,Karnataka,In-Network
+331,Coimbatore Multi-Specialty Hospital,Hospital,Coimbatore,Tamil Nadu,Out-of-Network
+332,Tirupati Medical Center,Hospital,Tirupati,Andhra Pradesh,In-Network
+333,Jodhpur Car Care Center,Garage,Jodhpur,Rajasthan,Out-of-Network
+334,Warangal Auto Works,Garage,Warangal,Telangana,In-Network
+335,Udaipur Care Hospital,Hospital,Udaipur,Rajasthan,Out-of-Network
+336,Mangaluru Service Station,Garage,Mangaluru,Karnataka,In-Network
+337,Jaipur Care Hospital,Hospital,Jaipur,Rajasthan,In-Network
+338,Jabalpur Care Hospital,Hospital,Jabalpur,Madhya Pradesh,In-Network
+339,Panipat Multi-Specialty Hospital,Hospital,Panipat,Haryana,In-Network
+340,Ambala Car Care Center,Garage,Ambala,Haryana,Out-of-Network
+341,Chandigarh Auto Works,Garage,Chandigarh,Punjab,In-Network
+342,Visakhapatnam Care Hospital,Hospital,Visakhapatnam,Andhra Pradesh,In-Network
+343,Durgapur Health Institute,Hospital,Durgapur,West Bengal,In-Network
+344,Bhubaneswar Car Care Center,Garage,Bhubaneswar,Odisha,Out-of-Network
+345,Chennai General Hospital,Hospital,Chennai,Tamil Nadu,In-Network
+346,Lucknow Service Station,Garage,Lucknow,Uttar Pradesh,Out-of-Network
+347,Bhubaneswar Health Institute,Hospital,Bhubaneswar,Odisha,In-Network
+348,Bengaluru Medical Center,Hospital,Bengaluru,Karnataka,In-Network
+349,Cuttack Service Station,Garage,Cuttack,Odisha,In-Network
+350,Kochi Medical Center,Hospital,Kochi,Kerala,In-Network
+351,Dwarka Auto Repairs,Garage,Dwarka,Delhi,In-Network
+352,Howrah Auto Works,Garage,Howrah,West Bengal,In-Network
+353,Lucknow Motors,Garage,Lucknow,Uttar Pradesh,In-Network
+354,Bhagalpur Car Care Center,Garage,Bhagalpur,Bihar,In-Network
+355,Kanpur Motor Garage,Garage,Kanpur,Uttar Pradesh,In-Network
+356,Vijayawada Motors,Garage,Vijayawada,Andhra Pradesh,In-Network
+357,Noida Nursing Home,Hospital,Noida,Uttar Pradesh,Out-of-Network
+358,Lucknow Care Hospital,Hospital,Lucknow,Uttar Pradesh,In-Network
+359,Trichy Service Station,Garage,Trichy,Tamil Nadu,In-Network
+360,Nashik Auto Works,Garage,Nashik,Maharashtra,In-Network
+361,Udaipur Motors,Garage,Udaipur,Rajasthan,Out-of-Network
+362,Mysuru Motors,Garage,Mysuru,Karnataka,Out-of-Network
+363,Vadodara Car Care Center,Garage,Vadodara,Gujarat,In-Network
+364,Karimnagar Health Institute,Hospital,Karimnagar,Telangana,In-Network
+365,Lucknow Car Care Center,Garage,Lucknow,Uttar Pradesh,In-Network
+366,Hyderabad Auto Repairs,Garage,Hyderabad,Telangana,In-Network
+367,Karimnagar Car Care Center,Garage,Karimnagar,Telangana,In-Network
+368,Howrah Multi-Specialty Hospital,Hospital,Howrah,West Bengal,In-Network
+369,Muzaffarpur General Hospital,Hospital,Muzaffarpur,Bihar,Out-of-Network
+370,Bhubaneswar Service Station,Garage,Bhubaneswar,Odisha,Out-of-Network
+371,Bhopal Multi-Specialty Hospital,Hospital,Bhopal,Madhya Pradesh,In-Network
+372,Kanpur Multi-Specialty Hospital,Hospital,Kanpur,Uttar Pradesh,In-Network
+373,Gurugram Multi-Specialty Hospital,Hospital,Gurugram,Haryana,In-Network
+374,Mumbai Car Care Center,Garage,Mumbai,Maharashtra,In-Network
+375,Warangal Motors,Garage,Warangal,Telangana,In-Network
+376,Bhagalpur Auto Works,Garage,Bhagalpur,Bihar,In-Network
+377,Thrissur Motor Garage,Garage,Thrissur,Kerala,Out-of-Network
+378,Visakhapatnam General Hospital,Hospital,Visakhapatnam,Andhra Pradesh,In-Network
+379,Kolkata Car Care Center,Garage,Kolkata,West Bengal,Out-of-Network
+380,Hyderabad Service Station,Garage,Hyderabad,Telangana,In-Network
+381,Ambala General Hospital,Hospital,Ambala,Haryana,In-Network
+382,Jodhpur Car Care Center,Garage,Jodhpur,Rajasthan,In-Network
+383,Ambala Medical Center,Hospital,Ambala,Haryana,Out-of-Network
+384,Cuttack Car Care Center,Garage,Cuttack,Odisha,In-Network
+385,Rourkela Service Station,Garage,Rourkela,Odisha,In-Network
+386,Indore Auto Repairs,Garage,Indore,Madhya Pradesh,In-Network
+387,Nizamabad Nursing Home,Hospital,Nizamabad,Telangana,Out-of-Network
+388,Pune Auto Works,Garage,Pune,Maharashtra,Out-of-Network
+389,Jabalpur Car Care Center,Garage,Jabalpur,Madhya Pradesh,Out-of-Network
+390,Rajkot Health Institute,Hospital,Rajkot,Gujarat,In-Network
+391,Guntur Auto Works,Garage,Guntur,Andhra Pradesh,In-Network
+392,Amritsar Auto Repairs,Garage,Amritsar,Punjab,In-Network
+393,Amritsar Auto Works,Garage,Amritsar,Punjab,Out-of-Network
+394,Tirupati Auto Repairs,Garage,Tirupati,Andhra Pradesh,In-Network
+395,Mangaluru General Hospital,Hospital,Mangaluru,Karnataka,In-Network
+396,Ambala Auto Works,Garage,Ambala,Haryana,In-Network
+397,Vijayawada Auto Repairs,Garage,Vijayawada,Andhra Pradesh,In-Network
+398,Hubli Car Care Center,Garage,Hubli,Karnataka,In-Network
+399,Pune Multi-Specialty Hospital,Hospital,Pune,Maharashtra,In-Network
+400,Rohini Motor Garage,Garage,Rohini,Delhi,In-Network

@@ -1,0 +1,61 @@
+﻿BranchID,BranchName,State,City,Region
+1,Mumbai Branch,Maharashtra,Mumbai,West
+2,Pune Branch,Maharashtra,Pune,West
+3,Nagpur Branch,Maharashtra,Nagpur,West
+4,Nashik Branch,Maharashtra,Nashik,West
+5,Bengaluru Branch,Karnataka,Bengaluru,South
+6,Mysuru Branch,Karnataka,Mysuru,South
+7,Mangaluru Branch,Karnataka,Mangaluru,South
+8,Hubli Branch,Karnataka,Hubli,South
+9,New Delhi Branch,Delhi,New Delhi,North
+10,Dwarka Branch,Delhi,Dwarka,North
+11,Rohini Branch,Delhi,Rohini,North
+12,Saket Branch,Delhi,Saket,North
+13,Chennai Branch,Tamil Nadu,Chennai,South
+14,Coimbatore Branch,Tamil Nadu,Coimbatore,South
+15,Madurai Branch,Tamil Nadu,Madurai,South
+16,Trichy Branch,Tamil Nadu,Trichy,South
+17,Hyderabad Branch,Telangana,Hyderabad,South
+18,Warangal Branch,Telangana,Warangal,South
+19,Nizamabad Branch,Telangana,Nizamabad,South
+20,Karimnagar Branch,Telangana,Karimnagar,South
+21,Kolkata Branch,West Bengal,Kolkata,East
+22,Howrah Branch,West Bengal,Howrah,East
+23,Durgapur Branch,West Bengal,Durgapur,East
+24,Siliguri Branch,West Bengal,Siliguri,East
+25,Ahmedabad Branch,Gujarat,Ahmedabad,West
+26,Surat Branch,Gujarat,Surat,West
+27,Vadodara Branch,Gujarat,Vadodara,West
+28,Rajkot Branch,Gujarat,Rajkot,West
+29,Jaipur Branch,Rajasthan,Jaipur,West
+30,Jodhpur Branch,Rajasthan,Jodhpur,West
+31,Udaipur Branch,Rajasthan,Udaipur,West
+32,Kota Branch,Rajasthan,Kota,West
+33,Lucknow Branch,Uttar Pradesh,Lucknow,North
+34,Kanpur Branch,Uttar Pradesh,Kanpur,North
+35,Noida Branch,Uttar Pradesh,Noida,North
+36,Varanasi Branch,Uttar Pradesh,Varanasi,North
+37,Chandigarh Branch,Punjab,Chandigarh,North
+38,Ludhiana Branch,Punjab,Ludhiana,North
+39,Amritsar Branch,Punjab,Amritsar,North
+40,Jalandhar Branch,Punjab,Jalandhar,North
+41,Kochi Branch,Kerala,Kochi,South
+42,Thiruvananthapuram Branch,Kerala,Thiruvananthapuram,South
+43,Kozhikode Branch,Kerala,Kozhikode,South
+44,Thrissur Branch,Kerala,Thrissur,South
+45,Bhopal Branch,Madhya Pradesh,Bhopal,Central
+46,Indore Branch,Madhya Pradesh,Indore,Central
+47,Gwalior Branch,Madhya Pradesh,Gwalior,Central
+48,Jabalpur Branch,Madhya Pradesh,Jabalpur,Central
+49,Gurugram Branch,Haryana,Gurugram,North
+50,Faridabad Branch,Haryana,Faridabad,North
+51,Panipat Branch,Haryana,Panipat,North
+52,Ambala Branch,Haryana,Ambala,North
+53,Patna Branch,Bihar,Patna,East
+54,Gaya Branch,Bihar,Gaya,East
+55,Bhagalpur Branch,Bihar,Bhagalpur,East
+56,Muzaffarpur Branch,Bihar,Muzaffarpur,East
+57,Bhubaneswar Branch,Odisha,Bhubaneswar,East
+58,Cuttack Branch,Odisha,Cuttack,East
+59,Rourkela Branch,Odisha,Rourkela,East
+60,Puri Branch,Odisha,Puri,East
